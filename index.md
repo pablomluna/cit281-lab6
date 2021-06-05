@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+![Image](https://images.unsplash.com/photo-1590595906931-81f04f0ccebb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-You can use the [editor on GitHub](https://github.com/pablomluna/cit281-lab6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Lab Goals:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Join GitHub and work through Introduction to GitHub course
 
-### Markdown
+## Lab Parts: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Create lab file
+2. Classes overview
+3. Create and test Book class
+4. Create and test Library class
+5. Add at least two more books to the library
+6. Add ISBN and a delete book method
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Lab Deliverables
 
-- Bulleted
-- List
+1. lab-06.js
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pablomluna/cit281-lab6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+pmanriqu@uoregon.edu
